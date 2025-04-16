@@ -3,6 +3,7 @@
 ![Hi](https://imgs.qiubiaoqing.com/qiubiaoqing/imgs/60760673df67249T.gif)
 
 Hello, I’m Zhenmin. I’m an ordinary engineer and a half-baked writer. I used to work as an engineer at ByteDance's Douyin Security and Trae AI, and now I work as an engineer at Alibaba Cloud.
+
 I really like to discuss technical issues and explore different perspectives. I am now in Hangzhou and look forward to discussing with you online and offline.
 
 I’ve written the following books: [《SSR实战：官网开发指南》](https://juejin.cn/book/7137945369635192836?utm_source=course_list)、[《前端自动化测试精讲》](https://juejin.cn/book/7174044519350927395?utm_source=course_list)、[《Trae 从入门到实践：AI 编码的妙笔生花》](https://juejin.cn/book/7468318866599673907?utm_source=course_list), and [《生成式AI应用开发：基于OpenAI API实现》](https://www.tup.com.cn/booksCenter/book_10711401.html) published by Tsinghua University Press.
